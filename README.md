@@ -15,11 +15,9 @@ Download the YOLO-V5 from the following link
 YOLO-V5 repository can be downloaded from below link .<br>
 
 ```bash
-git clone https://github.com/ultralytics/yolov5
+https://github.com/ultralytics/yolov5
 ```
 <br>
-
-Link: https://github.com/ultralytics/yolov5
 
 Install all the required pacakages to run YOLO-V5 on server or local machine
 
