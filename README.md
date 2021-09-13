@@ -4,9 +4,9 @@ This study is related to object detection in thermal infrared spectrum using YOL
 
 ![](images/t1.PNG)
 
-![](images/thermal frames.PNG)
+![](images/t2.PNG)
 
-![](images/frames annotation.PNG)
+![](images/t3.PNG)
 
 <br>
 
