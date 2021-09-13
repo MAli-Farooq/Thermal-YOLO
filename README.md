@@ -8,12 +8,12 @@ This study is related to object detection in thermal infrared spectrum using YOL
 
 ![](images/frames annotation.PNG)
 
-Download the YOLO-V5 from the following link
+<br>
 
-<br>
-<br>
+YOLO-V5 repository can be downloaded from below link .<br>
+
 ```bash
-https://github.com/ultralytics/yolov5
+git clone https://github.com/ultralytics/yolov5
 ```
 <br>
 
