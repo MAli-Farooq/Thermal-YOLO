@@ -11,8 +11,7 @@ This study is related to object detection in thermal infrared spectrum using YOL
 Download the YOLO-V5 from the following link
 
 <br>
- .<br>
-
+<br>
 ```bash
 https://github.com/ultralytics/yolov5
 ```
