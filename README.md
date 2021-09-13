@@ -1,6 +1,6 @@
 # Thermal-YOLO-V5 Deployment & Validation on GPU and Edge-GPU Platforms
 
-This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application. The trained network variants of YOLO-V5 are validated on GPU as well two different edge devivces which inlcude NVIDIA JETSON NANO and NVIDIA JETSON XAVIER boards.
+This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application. The trained network variants of YOLO-V5 are validated on GPU as well two different Edge-GPU devices which inlcude NVIDIA JETSON NANO and NVIDIA JETSON XAVIER NX boards.
 
 ![](images/t1.PNG)
 
