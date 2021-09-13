@@ -4,9 +4,9 @@ This study is related to object detection in thermal infrared spectrum using YOL
 
 ![](images/Thermal Camera.PNG)
 
-![](images/thermal frames.png)
+![](images/thermal frames.PNG)
 
-![](images/frames annotation.png)
+![](images/frames annotation.PNG)
 
 Download the YOLO-V5 from the following link
 Link: https://github.com/ultralytics/yolov5
