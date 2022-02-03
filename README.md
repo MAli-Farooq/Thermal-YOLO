@@ -31,3 +31,10 @@ The Thermal Dataset can be downloaded from the below link  .<br>
 https://bit.ly/3tAkJ0J
 ```
 <br>
+
+The Complete inference results on thermal datasets are available and can be downloaded from the below link  .<br>
+
+```bash
+https://bit.ly/3lfvxhd
+```
+<br>
