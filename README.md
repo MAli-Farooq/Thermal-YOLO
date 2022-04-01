@@ -28,7 +28,7 @@ The trained models can be tested on thermal data.
 The Thermal Dataset can be downloaded from the below link  .<br>
 
 ```bash
-https://bit.ly/3tAkJ0J
+https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 ```
 <br>
 
